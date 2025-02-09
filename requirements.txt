@@ -2,7 +2,7 @@ gdown
 matplotlib
 mtcnn
 numpy
-opencv-python
+opencv-python-headless
 pandas
 Pillow
 streamlit
