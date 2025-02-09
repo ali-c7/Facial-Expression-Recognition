@@ -1,12 +1,13 @@
-streamlit>=1.31.1
-tensorflow==2.15.0; python_version < '3.12'
-numpy>=1.24.3
-Pillow>=10.2.0
-pandas>=2.2.0
-opencv-python-headless>=4.9.0.80
-mtcnn>=0.1.1
-gdown>=5.1.0
-markdown-it-py==3.0.0
-mdurl==0.1.2
-pygments==2.19.1
-rich==13.9.4 
+gdown==5.2.0
+matplotlib==3.4.1
+mtcnn==0.1.1
+numpy==1.19.5
+opencv_python==4.11.0.86
+pandas==1.2.3
+Pillow==8.1.0
+Pillow==11.1.0
+streamlit==0.79.0
+streamlit==1.42.0
+tensorflow==2.5.0rc2
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
