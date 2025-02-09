@@ -1,0 +1,25 @@
+.stButton > button {
+    width: 100%;
+    background-color: #4B8BFF;
+    color: white !important;  /* Force white text always */
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.stButton > button:hover {
+    background-color: #3978FF;
+    color: white !important;  /* Force white text on hover */
+}
+
+.emotion-box {
+    background: linear-gradient(135deg, #4B8BFF 0%, #8CB3FF 100%);
+    padding: 1.2rem;
+    border-radius: 10px;
+    color: white;
+    margin: 1rem 0;
+}
+
+.analysis-table {
+    margin-top: 1rem;
+} 

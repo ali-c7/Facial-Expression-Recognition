@@ -1,0 +1,20 @@
+# Model files
+*.keras
+*.h5
+
+# Data
+train/
+test/
+FER2013.zip
+
+# Environment
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.streamlit/secrets.toml
+
+# Training script (optional)
+facial_expression_recognition.py
